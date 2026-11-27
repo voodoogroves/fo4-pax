@@ -10,4 +10,4 @@ Before acting here, run context prep (once per session):
 
 Read each "Read now" doc whole, read lookups only when the task matches it, then start with `README.md`. Rules: Rhodes `docs/memory-system.md`.
 
-Design notes are still in Rhodes `scratch/pax/` (start with `modules.md`).
+Design notes are still in Rhodes `scratch/pax/` (start with `handoff.md`).
